@@ -1,0 +1,9 @@
+server:
+ port:9090
+ 
+spring:
+ data source:
+  driver-class-name:org.postgresql.Driver
+  url:jdbc:postgresql://revdatabase.c9yldontobdz.us-east-2.rds.amazonaws.com:5432/postgres
+  username:username
+  password:password
