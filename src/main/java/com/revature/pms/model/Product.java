@@ -18,4 +18,12 @@ public class Product {
 	private String productName;
 	private int quantityOnHand;
 	private int price;
+	public int getProductId() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	public int getPrice() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
 }
